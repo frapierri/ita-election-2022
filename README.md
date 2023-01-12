@@ -11,11 +11,11 @@ If you use this data please don't forget to cite the paper, thanks!
 
 `tw_ids` contains daily ".txt" files for Twitter data. Each file provides IDs of tweets that can be used to re-hydrate tweets using [Hydrator](https://github.com/DocNow/hydrator) or [Twarc](https://github.com/DocNow/twarc). <br>
 
-`keywords.txt` contains the list of election-related keywords employed for collecting the data on different platforms. These were obtained through a snowball sampling approach starting with seeds such as "elezioni" or "elezioni2022". <br>>
+`keywords.txt` contains the list of election-related keywords employed for collecting the data on different platforms. These were obtained through a snowball sampling approach starting with seeds such as "elezioni" or "elezioni2022". <br>
 
 `meta_ads_ids.txt` contains the list of IDs of ads collected in the dataset. These can be used to retrieve ads through [Meta Ad Library](https://www.facebook.com/ads/library) API or search console. <br>
 
-`*_metadata.csv` files contain metadata for YouTube and TikTok videos shared on Twitter and Facebook. <br>
+`*_metadata.csv` files contain metadata for YouTube and TikTok videos shared on Twitter and Facebook. YouTube metadata was collected through the official API whereas TikTok metadata was scraped using [pyktok](https://github.com/dfreelon/pyktok) library <br>
 
 `*_representative_handles.csv` files contain social media handles associated to Italian representatives. <br>
 
