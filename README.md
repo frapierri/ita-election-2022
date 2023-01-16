@@ -3,7 +3,7 @@ This is a repository of social media posts related to the Italian 2022 general e
 
 <b> ITA-ELECTION-2022: A multi-platform dataset of social media conversations around the 2022 Italian general election" Pierri Francesco, Liu Geng, Ceri Stefano (2023)  https://arxiv.org/abs/2301.05119 </b> <br> 
 
-If you use this data please don't forget to cite the paper, thanks! <br>
+If you use this data please don't forget to cite the paper above, thanks! <br>
 
 Contact: francesco.pierri at polimi.it
 
