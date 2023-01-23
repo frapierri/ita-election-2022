@@ -15,7 +15,7 @@ Contact: francesco.pierri at polimi.it
 
 `keywords.txt` contains the list of election-related keywords employed for collecting the data on different platforms. These were obtained through a snowball sampling approach starting with seeds such as "elezioni" or "elezioni2022". <br>
 
-`meta_ads_ids.txt` contains the list of IDs of ads collected in the dataset. These can be used to retrieve ads through [Meta Ad Library](https://www.facebook.com/ads/library) API or search console. <br>
+`meta_ads_ids.txt` contains the list of IDs of ads collected in the dataset. These can be used to retrieve ads through [Meta Ad Library](https://www.facebook.com/ads/library) API or search console. A repository containing screenshots of these ads is available [here](https://github.com/ruggsea/2022IT-election-ads) <br>
 
 `*_metadata.csv` files contain metadata for YouTube and TikTok videos shared on Twitter and Facebook. YouTube metadata was collected through the official API whereas TikTok metadata was scraped using [pyktok](https://github.com/dfreelon/pyktok) library <br>
 
