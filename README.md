@@ -22,5 +22,8 @@ Contact: francesco.pierri at polimi.it
 `*_representative_handles.csv` files contain social media handles associated to Italian representatives. <br>
 
 
+## Twitter data ##
+Given future limitations that will be likely introduced to public APIs, we encourage interested researchers to reaching out to us in case they find difficulties in accessing Twitter data.
+
 ## Acknowledgments
 We are thankful to M.Sc. students Valeria Panté and Ilaria Saini for helping match social media accounts to political representatives. Work supported in part by PRIN grant HOPE (FP6, Italian Ministry of Education).
